@@ -1,0 +1,19 @@
+{
+  "name": "node-ts-api-usage-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "0.27.2",
+    "axios-cookiejar-support": "4.0.3",
+    "tough-cookie": "4.1.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.21"
+  },
+  "keywords": [],
+  "description": ""
+}
